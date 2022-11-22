@@ -157,3 +157,18 @@ p {
 }
 
 /* ////////////////////////////////// */
+.company-title {
+	margin-bottom: 50px;
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 34px;
+	color: #94959a;
+	text-align: center;
+}
+
+.company-logos {
+	display: flex;
+	justify-content: space-between;
+}
+
+/* ////////////////////////////////// */
