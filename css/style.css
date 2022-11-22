@@ -6,7 +6,7 @@ p {
 	line-height: 30px;
 }
 
-.button {
+button {
 	display: block;
 
 	background-color: #ff7058;
@@ -139,7 +139,7 @@ p {
 
 .banner-button img {
 	margin-left: 18px;
-	vertical-align: -20%;
+	vertical-align: -10%;
 }
 
 .banner-button-info {
