@@ -276,3 +276,66 @@ p {
 }
 
 /* ////////////////////////////////// */
+.comments-info {
+	padding: 55px 0;
+	background: rgba(255, 112, 88, 0.05);
+	text-align: center;
+}
+
+.comments-title {
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 60px;
+}
+
+.comments-wrapper {
+	padding: 50px 0 180px 0;
+}
+
+.comments-cards {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 40px;
+}
+
+.comments-card-info {
+	padding: 50px 0;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: #ffffff;
+	border-radius: 15px;
+	box-shadow: 0px 10px 40px rgba(241, 102, 24, 0.15);
+}
+
+.comments-card-title {
+	margin-bottom: 30px;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 36px;
+	color: #120d26;
+}
+
+.comments-card-description {
+	max-width: 310px;
+	margin-bottom: 30px;
+	color: #94959a;
+}
+
+.comments-card-stars {
+	margin-bottom: 30px;
+}
+
+.comments-card-stars img {
+	width: 25px;
+	height: 25px;
+}
+
+.comments-card-author {
+	color: #120d26;
+}
+
+/* ////////////////////////////////// */
