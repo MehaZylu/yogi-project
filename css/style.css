@@ -424,3 +424,41 @@ p {
 }
 
 /* ////////////////////////////////// */
+.try {
+	padding: 115px 0;
+	background-color: rgba(255, 112, 88, 0.05);
+}
+
+.try-wrapper {
+	padding: 95px 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #ff7058;
+	border-radius: 25px;
+	text-align: center;
+}
+
+.try-title {
+	margin-bottom: 40px;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 60px;
+	color: #ffffff;
+}
+
+.try-description {
+	margin-bottom: 40px;
+	color: #ffffff;
+}
+
+.try-button {
+	width: 230px;
+	padding: 22px 24px;
+	background-color: #ffffff;
+	border-radius: 15px;
+	color: #120d26;
+}
+
+/* ////////////////////////////////// */
